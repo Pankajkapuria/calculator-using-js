@@ -1,0 +1,24 @@
+input:focus{
+    outline: none;
+}
+
+.text-center{
+    text-align: center;
+}
+.flex{
+    display: flex;
+}
+.align_item_center{
+    align-items: center;
+}
+.font1{
+    font-family: 'Poppins', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+.color1{
+    background-color: rgba(255, 166, 0, 0.753);
+}
+.color2{
+    background-color: rgba(104, 117, 117, 0.619);
+}
